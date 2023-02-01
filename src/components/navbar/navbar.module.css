@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+}
+nav ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: black;
+}
+nav ul li{
+    padding: 25px;
+    color: white;
+    font-size: 30px;
+}
+
+nav ul li:hover{
+    background-color:  rgb(147, 224, 255);
+}
